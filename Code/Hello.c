@@ -1,5 +1,11 @@
 #include <stdio.h>
-void main()
+
+void hello()
 {
     printf("Hello World!");
+    printf("This is Manu Shukla");
+}
+int main()
+{
+    hello();
 }
